@@ -4,10 +4,10 @@
   "description": "Major Project 1",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sumit",
+  "author": "Abhishek",
   "license": "ISC",
   "dependencies": {
     "connect-mongo": "^4.2.2",
